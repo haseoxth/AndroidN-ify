@@ -34,13 +34,13 @@
 	<string name="hide_launcher_icon">Може знадобитися перезавантаження робочого столу</string>
 	<string name="debug_log_title">Журнал для налагодження</string>
 	<string name="debug_log">Увага: Журнал може займати багато місця</string>
-    <string name="logcat_notif_ongoing_title">Збереження logcat&#8230;</string>
+	<string name="logcat_notif_ongoing_title">Збереження logcat&#8230;</string>
 	<string name="logcat_notif_finished_title">Logcat збережено</string>
 	<string name="logcat_notif_preparing">Підготування&#8230;</string>
 	<string name="logcat_notif_ongoing_lines">Збережено %1$s рядків&#8230;</string>
-    <string name="action_stop">Зупинити</string>
+	<string name="action_stop">Зупинити</string>
 
-    <string name="requesting_root">Запит прав суперкористувача&#8230;</string>
+	<string name="requesting_root">Запит прав суперкористувача&#8230;</string>
 	<string name="root_failed">Не вдалося отримати дозвіл READ_LOGS</string>
 	<string name="permission_required">Необхідний дозвіл</string>
 	<string name="logs_permission_description">
@@ -108,18 +108,17 @@
 	<!-- QUICK SETTINGS -->
 	<string name="header_qs">Швидкі налаштування</string>
 	<string name="enable_notification_header">Змінити стиль шапки статус-бару</string>
-    <string name="keep_qs_panel_bg">Корисно для тих, які використовують своє тло для панелі швидких налаштувань</string>
 	<string name="notification_header_qs_tiles_count">Кількість значків у верхній панелі</string>
 	<string name="notification_header_qs_tiles_count_monitor">значків</string>
 	<string name="battery_tile_show_percentage">Показувати відсотки на плитці з акумулятором</string>
 	<string name="battery_tile_show_percentage_summary">Показувати залишок батареї у відсотках на плитці з акумулятором</string>
 	<string name="enable_qs_editor">Новий редактор плиток</string>
 	<string name="allow_fancy_qs_transition">Анімація переходу плиток</string>
-    <string name="enable_new_tile_click_behavior">Перемикати швидкі налаштування одним натисканням</string>
+	<string name="enable_new_tile_click_behavior">Перемикати швидкі налаштування одним натисканням</string>
 	<string name="enable_new_tile_click_behavior_summary">При натисканні на плитку у рядку швидкого доступу перемкне стан, і натисніть плитку на панелі, щоб розширити</string>
 	<string name="enable_large_first_row">Збільшити перший рядок</string>
 	<string name="enable_large_first_row_summary">На CM використовуйте меню конфігурації в режимі редагування плиток замість цього перемикача</string>
-    <string name="fix_stuck_inversion_title">Виправити інверсію</string>
+	<string name="fix_stuck_inversion_title">Виправити інверсію</string>
 	<string name="fix_stuck_inversion">На деяких пристроях інверсія застряє, коли увімкнена. Натисніть для примусового вимкнення</string>
 	<!-- Hide header icons -->
 	<string name="hide_icons_title">Приховати елементи шапки статус-бару</string>
@@ -137,7 +136,7 @@
 	<string name="action_search">Пошук</string>
 	<string name="notification_blacklisted_apps_title">Чорний список додатків</string>
 	<string name="notification_blacklisted_apps">Використовувати старий стиль сповіщень для цих додатків</string>
-    <string name="notifications_custom_actions_color_title">Змінити колір фону панелі дій</string>
+	<string name="notifications_custom_actions_color_title">Змінити колір фону панелі дій</string>
 	<string name="notifications_actions_color_title">Колір фону панелі дій</string>
 	<!-- /NOTIFICATIONS -->
 	
